@@ -1,7 +1,7 @@
-# **Apply transformer-based LLM models for text classfication applications**
+# **Apply transformer-based models for text classfication applications**
 
 
-##  Sentiment Analysis using large language models
+##  Sentiment Analysis using large language models (LLMs)
 
 
 
