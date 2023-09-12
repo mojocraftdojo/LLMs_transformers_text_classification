@@ -18,7 +18,7 @@ DistilBERT stands for "Bidirectional Encoder Representations from Transformers.
 This analysis focus on modeling using large language models (LLMs). However, previously, I did a separate analysis to apply various machine learning predictive models and Deep learning models on the same dataset to predict sentiments. If you are interested in checking out the side-by-side model performance, got to: https://github.com/mojocraftdojo/NLP_news_sentiment_analysis
 
 
-I will also update the notebook to include the DistilBERT model performance on top of below models to compare the model performance on this dataset.
+After this analysis, I will also update that Jupyter notebook to include the DistilBERT model performance to compare with the below models:
 
 >### **Classic Supervised learning models( Scikit-learn)**
 >> #### Model 0: Naive Bayes (baseline)
