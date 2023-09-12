@@ -1,4 +1,4 @@
-# **Apply Transformer-based large language models for text classfication NLP applications**
+# **Apply Transformers-based Large Language Models for Text Classification NLP applications**
 
 
 ##  Sentiment Analysis using large language models (LLMs)
