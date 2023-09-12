@@ -1,14 +1,14 @@
 # **Apply transformer-based LLM models for text classfication applications**
 
 
-##  Sentiment Analysis on Financial News Headlines using large language models
+##  Sentiment Analysis using large language models
 
 
 
 ## Objective
 
-This analysis aims at predicting sentiments from financial news headlines leveraging pre-trained transformer-based model hosted on Huggingface.
-The LLM model selected here is DistilBERT model that can be used for text classification including Sentiment Analysis. DistilBert is a relative simpler model than BERT or RoBERTa.
+This analysis aims at predicting various sentiments in financial news headlines using pre-trained transformer-based models, which are hosted on Huggingface.
+The LLM model selected for this analysis is DistilBERT model that can be used for text classification including Sentiment Analysis. DistilBert is a relative simpler model than BERT or RoBERTa.
 
 DistilBERT stands for "Bidirectional Encoder Representations from Transformers)
 
